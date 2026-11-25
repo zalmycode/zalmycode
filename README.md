@@ -1,7 +1,6 @@
 <div align="center">
 
-
-
+<!-- БАННЕР И БЕГУЩАЯ СТРОКА -->
 ```text
 ███████╗ █████╗ ██╗     ███╗   ███╗██╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗
 ╚══███╔╝██╔══██╗██║     ████╗ ████║╚██╗ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
@@ -11,48 +10,85 @@
 ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
+<img src="https://demolab.com" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Antic+Didone&weight=400&size=14&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=720&height=26&lines=LLM+BENCHMARKING+ENGINEER;MODEL+EVALUATION+%26+PERFORMANCE+ANALYTICS;BUILDING+TRANSPARENT+AI+BENCHMARKS" alt="Typing SVG" />
+<br/>
 
-</div>
+<!-- БЛОК О СЕБЕ В КАРТОЧКЕ -->
+<table>
+  <tr>
+    <td align="center" width="760">
+      <h3>// ZALMYCODE</h3>
+      <p>
+        Developer focused on <b>LLM benchmarking</b>, model evaluation, and performance analytics.<br/>
+        Building transparent and reproducible systems for measuring the real capabilities of large language models.
+      </p>
+      <code>STATUS: OPERATIONAL</code> • <code>FOCUS: LLM BENCHMARKS</code> • <code>CORE: LLM-BENCH</code>
+    </td>
+  </tr>
+</table>
 
-## ZALMYCODE
+<br/>
 
-Developer focused on **LLM benchmarking**, model evaluation, and performance analytics.  
-Building transparent and reproducible systems for measuring the real capabilities of large language models.
+<!-- ТАБЛИЦА ОСНОВНОГО ПРОЕКТА -->
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" align="center">⚡ LLM-BENCH — EVALUATION MATRIX</th>
+    </tr>
+    <tr>
+      <th align="center" width="240">AREA</th>
+      <th align="center" width="520">WHAT IT MEASURES</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>Reasoning</b></td>
+      <td align="center">Logical thinking, multi-step tasks, problem solving</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Code generation</b></td>
+      <td align="center">Correctness, quality, and practical coding ability</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Knowledge</b></td>
+      <td align="center">Factual accuracy and domain understanding</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Instruction following</b></td>
+      <td align="center">Ability to follow constraints and complete tasks</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Performance</b></td>
+      <td align="center">Speed, consistency, and reliability across tasks</td>
+    </tr>
+  </tbody>
+</table>
 
-- **Status:** Operational  
-- **Focus:** LLM Benchmarks, Evaluation, Analytics  
-- **Core project:** LLM-BENCH  
+<br/>
 
-## LLM-BENCH
+<!-- ЕДИНАЯ ПАНЕЛЬ СТЕКА И СТАТУСА -->
+<table>
+  <tr>
+    <th align="center" width="760">🛠 TECH STACK & SYSTEM STATUS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://shields.io" alt="Python" />
+      <img src="https://shields.io" alt="C++" />
+      <img src="https://shields.io" alt="LLM Evaluation" />
+      <img src="https://shields.io" alt="Benchmarks" />
+      <img src="https://shields.io" alt="Analytics" />
+      <br/><br/>
+      <img src="https://shields.io" alt="Status" />
+      <img src="https://shields.io" alt="Focus" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
-**LLM-BENCH** — a benchmarking platform for evaluating large language models across reasoning, coding, knowledge, and instruction following.
-
-| Area | What it measures |
-|---|---|
-| Reasoning | Logical thinking, multi-step tasks, problem solving |
-| Code generation | Correctness, quality, and practical coding ability |
-| Knowledge | Factual accuracy and domain understanding |
-| Instruction following | Ability to follow constraints and complete tasks |
-| Performance | Speed, consistency, and reliability across tasks |
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=c9d1d9)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9)
-![LLM Evaluation](https://img.shields.io/badge/LLM_EVALUATION-000000?style=for-the-badge&logo=openai&logoColor=c9d1d9)
-![Benchmarks](https://img.shields.io/badge/BENCHMARKS-000000?style=for-the-badge&logo=chartdotjs&logoColor=c9d1d9)
-![Analytics](https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=grafana&logoColor=c9d1d9)
-
-## Project Status
-
-![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-000000?style=for-the-badge&labelColor=000000&logoColor=c9d1d9)
-![Focus](https://img.shields.io/badge/FOCUS-LLM_BENCHMARKS-000000?style=for-the-badge&labelColor=000000&logoColor=c9d1d9)
-
----
-
-<div align="center">
+<br/>
 
 <sub><code>ZALMYCODE // 0x000000</code></sub>
 
